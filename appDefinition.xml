@@ -1,0 +1,15 @@
+<appDefinition>
+   <id>versionControlDemo</id>
+   <version></version>
+   <name>Version Control Demo</name>
+   <packageDefinitionList/>
+   <formDefinitionList/>
+   <userviewDefinitionList/>
+   <datalistDefinitionList/>
+   <builderDefinitionList/>
+   <pluginDefaultPropertiesList/>
+   <environmentVariableList/>
+   <messageList/>
+   <resourceList/>
+   <createdBy>admin</createdBy>
+</appDefinition>
