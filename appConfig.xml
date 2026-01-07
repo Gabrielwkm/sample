@@ -1,4 +1,5 @@
 <appDefinition>
+   <appId>versionControlDemo</appId>
    <id>versionControlDemo</id>
    <version></version>
    <name>Version Control Demo</name>
@@ -11,5 +12,6 @@
    <environmentVariableList/>
    <messageList/>
    <resourceList/>
+   <license>hvtHWelsWQdxNmeAUiIMjfbzYAlG20fBnVx+C3wr+7ow0KjsePIoSGj7rzjwWCZeTMJzikMvZ+M=</license>
    <createdBy>admin</createdBy>
 </appDefinition>
