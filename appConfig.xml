@@ -2,7 +2,7 @@
    <appId>versionControlDemo</appId>
    <id>versionControlDemo</id>
    <version></version>
-   <name>Version Control Demos</name>
+   <name>Version Control Demo</name>
    <packageDefinitionList/>
    <formDefinitionList/>
    <userviewDefinitionList/>
@@ -14,5 +14,4 @@
    <resourceList/>
    <license>hvtHWelsWQdxNmeAUiIMjfbzYAlG20fBnVx+C3wr+7ow0KjsePIoSGj7rzjwWCZeTMJzikMvZ+M=</license>
    <createdBy>admin</createdBy>
-
 </appDefinition>
