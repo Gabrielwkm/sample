@@ -6,7 +6,7 @@
    <packageDefinitionList>
       <packageDefinition>
          <id>versionControlDemo</id>
-         <name>Version Control Demo</name>
+         <name>Version Control Demos</name>
          <packageActivityFormMap>
             <entry>
                <string>process1::runProcess</string>
@@ -75,4 +75,5 @@
    <resourceList/>
    <license>hvtHWelsWQdxNmeAUiIMjfbzYAlG20fBnVx+C3wr+7ow0KjsePIoSGj7rzjwWCZeTMJzikMvZ+M=</license>
    <createdBy>admin</createdBy>
+
 </appDefinition>
